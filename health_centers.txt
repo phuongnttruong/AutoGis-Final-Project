@@ -1,0 +1,24 @@
+id;addr;name
+0;Huovitie 5, 00400 Helsinki, Finland;Haaga Health Station
+1;Vuorensyrjä 8, 00770 Helsinki, Finland;Jakomäki Health Station
+2;Työpajankatu 14,  00580 Helsinki, Finland;Kalasatama Health Station
+3;Laulukuja 4, 00420 Helsinki, Finland;Kannelmäki Health Station
+4;Lääkärinkatu 8, 00250 Helsinki, Finland;Kivelä Health Station
+5;Kivikonkaari 21, 00940 Helsinki, Finland;Kivikko Health Station
+6;Ostoskuja 3, 00940 Helsinki, Finland;Kontula Health Station
+7;Koulutanhua 2, 00840 Helsinki, Finland;Laajasalo Health Station
+8;Taivaanvuohentie 6, 00200 Helsinki, Finland;Lauttasaari Health Station
+9;Talvelantie 4, 00700 Helsinki, Finland;Malmi Health Station
+10;Luutnantintie 12, 00410 Helsinki, Finland;Malminkartano Health Station
+11;Suursuonlaita 3, 00630 Helsinki, Finland;Maunula Health Station
+12;Laajalahdentie 30, 00330 Helsinki, Finland;Munkkiniemi Health Station
+13;Jauhokuja 4, 00920 Helsinki, Finland;Myllypuro Health Station
+14;Kylänvanhimmantie 25, 00640 Helsinki, Finland;Oulunkylä Health Station
+15;Paloheinäntie 22, 00670 Helsinki, Finland;Paloheinä Health Station
+16;Meripihkatie 8, 00710 Helsinki, Finland;Pihlajamäki Health Station
+17;Konalantie 6, 00370 Helsinki, Finland;Pitäjänmäki Health Station
+18;Ajurinaukio 1, 00750 Helsinki, Finland;Puistola Health Station
+19;Tallberginkatu 2, 00180 Helsinki, Finland;Ruoholahti Health Station
+20;Suutarilantie 32, 00740 Helsinki, Finland;Suutarila Health Station
+21;Pursimiehenkatu 4, 00150 Helsinki, Finland;Viiskulma Health Station
+22;Kahvikuja 3, 00980 Helsinki, Finland;Vuosaari Health Station
