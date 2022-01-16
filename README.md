@@ -51,6 +51,7 @@ using all knowlege to analyze data such as distance and population of each healt
 
 ### Results:
 i am kinda happy with my result, work well with my idea.
+open html and chart of my map from index.md file
 
 
 ### References:
