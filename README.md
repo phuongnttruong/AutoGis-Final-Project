@@ -28,7 +28,7 @@ I try to apply all the knowlegde that I have gained from AutoGis 1 and this cour
 
 ### Structure of this repository:
 health stations' address is in the file health_center.txt 
-
+open html and chart of my map from index.md file
 
 ### Input data:
 sourse for health centers: https://www.hel.fi/en/health-and-social-services/health-care/health-stations
@@ -51,7 +51,7 @@ using all knowlege to analyze data such as distance and population of each healt
 
 ### Results:
 i am kinda happy with my result, work well with my idea.
-open html and chart of my map from index.md file
+
 
 
 ### References:
