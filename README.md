@@ -5,6 +5,7 @@
 I used Python to analyze the population around all health stations in Helsinki area, visualize and calculate the distant as well as the shortest path from my apartment to those area.
 
 ### Structure of this repository:
+All of the code is found in the Final_exercise.ipynb notebook.
 Health stations' address is in the file health_center.txt 
 Open html and analyze chart of my map from index.md file
 
